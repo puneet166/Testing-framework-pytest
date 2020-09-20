@@ -1,0 +1,17 @@
+install -> pip install pytest command for install pytest.
+This is Unit testing using pytest test framework..
+Rules----
+
+1.First create a file for testing a second file or particular functon.
+2.declare function name in pytest file with test_* or *_test
+3.filename of pytest must be like test_*.py or *_test.py
+
+After create a file of pytest
+.1-pytest file or 2. which file do you want to test 
+Save both files in same folder or directory...
+
+then run command......
+
+1-First go on that location via cmd where your both files have been saved.
+then run this command---
+python -m pytest
